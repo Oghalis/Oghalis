@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Oghalis&label=Profile%20views&color=0e75b6&style=flat" alt="Oghalis" /> </p>
 
-:sunflower: Experienced professional in international commerce, specialized in finance.
+:sunflower: Experienced professional in International Commerce, specialized in Finance.
 
 :chart_with_upwards_trend: Proficient in **Excel, Data Studio, Power BI, SQL & Python**
 
